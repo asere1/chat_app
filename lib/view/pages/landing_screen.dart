@@ -7,6 +7,7 @@ class LandingScreen extends StatelessWidget {
   LandingScreen({Key? key}) : super(key: key);
 
   final _firebaseAuth = FirebaseAuth.instance;
+  //git
 
   @override
   Widget build(BuildContext context) {
