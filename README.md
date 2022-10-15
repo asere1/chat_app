@@ -1,4 +1,4 @@
-# new_chat_app
+# chat_app
 
 chat app with firebase.
 
